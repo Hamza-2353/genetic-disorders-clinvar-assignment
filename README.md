@@ -53,7 +53,12 @@ This repository contains the complete analysis of three genetic disorders using 
 The `patient_variants.vcf` file contains the three variants in standard VCF format (GRCh38/hg38 assembly) suitable for ClinVar annotation.
 
 ## 📸 Screenshots
-*[Place UCSC Genome Browser screenshots here showing Alphamissense and RAVEL tracks]*
+
+### HBB Gene (Sickle Cell Disease)
+![HBB AlphaMissense and REVEL Tracks](screenshots/UCSC_Alphamissense_HBB.png)
+
+### FBN1 Gene (Marfan Syndrome)
+![FBN1 AlphaMissense and REVEL Tracks](screenshots/UCSC_Alphamissense_FBN1.png)
 
 ## ✅ Steps to Reproduce
 
