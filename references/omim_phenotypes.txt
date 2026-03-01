@@ -1,0 +1,15 @@
+OMIM PHENOTYPE INFORMATION
+==========================
+Date: March 1, 2026
+
+1. CYSTIC FIBROSIS (OMIM: 219700)
+   - Phenotype: Chronic lung disease, pancreatic insufficiency, elevated sweat chloride
+   - Gene: CFTR (7q31.2)
+
+2. SICKLE CELL DISEASE (OMIM: 603903)
+   - Phenotype: Hemolytic anemia, vaso-occlusive crises, stroke risk
+   - Gene: HBB (11p15.4)
+
+3. MARFAN SYNDROME (OMIM: 154700)
+   - Phenotype: Aortic root dilation, lens dislocation, tall stature
+   - Gene: FBN1 (15q21.1)
