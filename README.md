@@ -94,7 +94,6 @@ The `patient_variants.vcf` file contains the three variants in standard VCF form
 
 ## 👤 Author
 Muhammad Hamza Najeem
-539322
 
 
 ## 📅 Date
