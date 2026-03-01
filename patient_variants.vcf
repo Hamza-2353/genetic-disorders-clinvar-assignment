@@ -1,0 +1,15 @@
+##fileformat=VCFv4.2
+##fileDate=20260301
+##source=ClinVar_GRCh38
+##reference=GRCh38
+##assembly=GRCh38.p14
+##INFO=<ID=CLNSIG,Number=.,Type=String,Description="Clinical significance">
+##INFO=<ID=CLNDN,Number=.,Type=String,Description="Disease name">
+##INFO=<ID=CLNVC,Number=.,Type=String,Description="Variant type">
+##INFO=<ID=GENEINFO,Number=.,Type=String,Description="Gene name">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE_01
+7	117559593	rs113993960	CTT	C	.	PASS	CLNSIG=Pathogenic;CLNDN=Cystic_fibrosis;CLNVC=Deletion;GENEINFO=CFTR	GT	1/1
+11	5227002	rs334	A	T	.	PASS	CLNSIG=Pathogenic;CLNDN=Sickle_cell_disease;CLNVC=single_nucleotide_variant;GENEINFO=HBB	GT	0/1
+15	48749656	rs137854448	T	G	.	PASS	CLNSIG=Pathogenic;CLNDN=Marfan_syndrome;CLNVC=single_nucleotide_variant;GENEINFO=FBN1	GT	0/1
